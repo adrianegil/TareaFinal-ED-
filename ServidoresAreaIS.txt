@@ -1,0 +1,28 @@
+1 - Servidor:civil  Cantidad de Cuentas: 
+10
+2 - Servidor:economía  Cantidad de Cuentas: 
+15
+3 - Servidor:biblioteca  Cantidad de Cuentas: 
+20
+4 - Servidor:arquitectura  Cantidad de Cuentas: 
+20
+5 - Servidor:telecomunicaciones  Cantidad de Cuentas: 
+25
+6 - Servidor:hidraulica  Cantidad de Cuentas: 
+25
+7 - Servidor:informática  Cantidad de Cuentas: 
+25
+8 - Servidor:dirección  Cantidad de Cuentas: 
+30
+9 - Servidor:biomédica  Cantidad de Cuentas: 
+30
+10 - Servidor:automática  Cantidad de Cuentas: 
+35
+11 - Servidor:mecánica  Cantidad de Cuentas: 
+40
+12 - Servidor:química  Cantidad de Cuentas: 
+42
+13 - Servidor:industrial  Cantidad de Cuentas: 
+45
+14 - Servidor:rectorado  Cantidad de Cuentas: 
+45
